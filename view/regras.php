@@ -38,7 +38,7 @@ $controller = new ControllerRegras();
 <p>As equipes devem contar que as intempéries (chuvas, vento e sol) que podem acontecer a qualquer momento, mas como nosso intuito é a efemeridade e o não preciosismo estético contamos com a transitoriedade;</p>
 <p>Cada equipe deverá disponibilizar os registros fotográficos das intervenções atentando para todos os momentos da montagem, exposição, desmontagem, apagamento. Este material será reunido e formará um arquivo de imagens para um futuro catálogo visível no site;</p>
 <p>As equipes devem responsabilizar-se pela limpeza da parede e do local adjacente a cada intervenção após o período de exposição. Se necessário, arcando com multa em caso de não cumprimento da limpeza;</p>
-<p>Em caso de desistência, a equipe deverá comunicar com antecedência de 05 dias antes do início dos trabalhos, através do e-mail contatoaparede@gmail.com,  os motivos pelos quais desistiram. </p>
+<p>Em caso de desistência, a equipe deverá comunicar com antecedência de 05 dias antes do início dos trabalhos, através do e-mail contatoaparedeifsul@gmail.com,  os motivos pelos quais desistiram. </p>
 
 <p>* Levando em conta que, poderemos estar em momentos de aula no Campus,cada equipe enquanto realiza sua intervenção, deve respeitar tal fato.</p>
 
